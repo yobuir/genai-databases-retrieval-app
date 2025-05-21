@@ -2,7 +2,6 @@
 config.yml
 
 # vscode
-.vscode
 
 # direnv
 .envrc
@@ -14,3 +13,5 @@ config.yml
 __pycache__/
 .mypy_cache/
 .pytest_cache/
+config.bat
+node_modules
